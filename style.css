@@ -11,11 +11,6 @@
   font-family:Cafe Francoise;
   src: url(./Assets/Cafe\ Francoise_D.otf);
 }
-
-@font-face {
-  font-family: Phosphate;
-  src: url(./Assets/PhosphateInline.ttf);
-}
 * {
   margin: 0;
   padding: 0;
