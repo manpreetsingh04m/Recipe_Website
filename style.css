@@ -1,3 +1,21 @@
+@font-face {
+  font-family: Ovsyanka Press;
+  src: url(./Assets/OTF/Ovsyanka-press.otf);
+}
+@font-face {
+  font-family: Ovsyanka;
+  src: url(./Assets/OTF/Ovsyanka.otf);
+}
+
+@font-face {
+  font-family:Cafe Francoise;
+  src: url(./Assets/Cafe\ Francoise_D.otf);
+}
+
+@font-face {
+  font-family: Phosphate;
+  src: url(./Assets/PhosphateInline.ttf);
+}
 * {
   margin: 0;
   padding: 0;
